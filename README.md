@@ -10,7 +10,7 @@ Suite aux requetes des utilisateurs(a partir d'un smartphone ou PC, ...), de fai
 - IDE Arduino
 - La carte ESP8266 dans l'IDE
 
-## Dataset Preparation
+## Ressources
 | Ressource | Telechargement |
 | ---     | ---   |
 | Installation de la cate ESP8266 | [Telecharger](https://structiot.flexunivers.com/media/ressource/INSTALLATION_DE_LA_CARTE_ESP8266.pdf) |
