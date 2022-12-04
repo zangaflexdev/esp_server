@@ -1,5 +1,5 @@
 /*
- * Ce programme permet a un ESP8266m,a partir d'un point d'acces, 
+ * Ce programme permet a un ESP8266,a partir d'un point d'acces, 
  * de se connecter et de deployer un serveur.
  * Suite aux requetes des utilisateurs(a partir d'un smartphone ou PC, ...),
  * de faire un tache precis qui peut etre allumer ou eteindre une lampe
